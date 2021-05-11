@@ -3,8 +3,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:oyuncubul/components/constants.dart';
-import 'package:oyuncubul/screens/Home/screens/product/products_screen.dart';
 import 'package:oyuncubul/screens/Welcome/welcome_screen.dart';
+
+import 'file:///C:/Users/Suzan%20Nur/Desktop/oyuncubul/lib/screens/Home/products_screen.dart';
 
 void main() => runApp(MyApp());
 
