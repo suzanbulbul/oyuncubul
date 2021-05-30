@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:oyuncubul/screens/Profile/components/change_password_body.dart';
+
+import 'edit_profile_body.dart';
 
 // ignore: must_be_immutable
-class ChangePassword extends StatefulWidget {
+class EditProfile extends StatefulWidget {
   @override
-  _ChangePasswordState createState() => _ChangePasswordState();
+  _EditProfileState createState() => _EditProfileState();
 }
 
-class _ChangePasswordState extends State<ChangePassword> {
+class _EditProfileState extends State<EditProfile> {
   @override
   void initState() {
     super.initState();

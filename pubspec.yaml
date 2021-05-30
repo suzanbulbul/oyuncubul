@@ -14,7 +14,7 @@ description: Oyuncu Bul App
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.4 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -32,6 +32,7 @@ dependencies:
   toast: ^0.1.5
   url_launcher: ^5.7.10
   cloud_firestore: "^0.16.0+1"
+
 
 
 

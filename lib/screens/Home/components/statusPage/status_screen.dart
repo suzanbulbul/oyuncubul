@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:oyuncubul/screens/Home/components/body.dart';
+import 'package:oyuncubul/screens/Home/components/statusPage/components/status_body.dart';
 
-class HomeScreen extends StatelessWidget {
+class StatusScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Scaffold(
       body: Body(),
     );

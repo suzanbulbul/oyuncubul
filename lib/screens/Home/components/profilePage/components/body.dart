@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:oyuncubul/main.dart';
-import 'package:oyuncubul/screens/Profile/FeedBack/feedback_screen.dart';
-import 'package:oyuncubul/screens/Profile/components/change_password_screen.dart';
-import 'package:oyuncubul/screens/Profile/components/edit_profile_screen.dart';
+import 'package:oyuncubul/screens/Home/components/profilePage/FeedBack/feedback_screen.dart';
+import 'package:oyuncubul/screens/Home/components/profilePage/components/change_password_screen.dart';
+import 'package:oyuncubul/screens/Home/components/profilePage/components/edit_profile_screen.dart';
 import 'package:oyuncubul/screens/Welcome/welcome_screen.dart';
 
 import 'profile_menu.dart';

@@ -4,7 +4,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:oyuncubul/components/rounded_button.dart';
 import 'package:oyuncubul/components/rounded_input_field.dart';
 import 'package:oyuncubul/main.dart';
-import 'package:oyuncubul/screens/Profile/FeedBack/components/background.dart';
+import 'package:oyuncubul/screens/Home/components/profilePage/FeedBack/components/background.dart';
 import 'package:toast/toast.dart';
 
 class Body extends StatefulWidget {

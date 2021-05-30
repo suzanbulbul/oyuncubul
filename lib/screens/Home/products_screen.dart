@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:oyuncubul/components/constants.dart';
-import 'package:oyuncubul/screens/Profile/profile_screen.dart';
-
-import 'file:///C:/Users/Suzan%20Nur/Desktop/oyuncubul/lib/screens/Home/home_screen.dart';
+import 'package:oyuncubul/screens/Home/components/homePage/home_screen.dart';
+import 'package:oyuncubul/screens/Home/components/profilePage/profile_screen.dart';
+import 'package:oyuncubul/screens/Home/components/statusPage/status_screen.dart';
 
 class ProductsScreen extends StatelessWidget {
   @override
@@ -42,7 +42,7 @@ class ProductsScreen extends StatelessWidget {
           body: TabBarView(
             children: [
               HomeScreen(),
-              Icon(Icons.directions_bike),
+              StatusScreen(),
               Icon(Icons.directions_bike),
               ProfileScreen(),
             ],
