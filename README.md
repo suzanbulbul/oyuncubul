@@ -16,12 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ### Screenshots
-   <img src="screenshots/home_screen.png" width=250> 
-   <img src="screenshots/welcome_screen.png" width=250>
-   <img src="screenshots/sign_up_screen.png" width=250>
-   <img src="screenshots/sign_in_screen.png" width=250>
-   <img src="screenshots/status_add_screen.png" width=250>
-   <img src="screenshots/setting_screen.png" width=250>
-   <img src="screenshots/password_screen.png" width=250>
-   <img src="screenshots/register_screen.png" width=250>
-   <img src="screenshots/feedback_screen.png" width=250>
+   <img src="screenshots/home_screen.PNG" width=250> 
+   <img src="screenshots/welcome_screen.PNG" width=250>
+   <img src="screenshots/sign_up_screen.PNG" width=250>
+   <img src="screenshots/sign_in_screen.PNG" width=250>
+   <img src="screenshots/status_add_screen.PNG" width=250>
+   <img src="screenshots/setting_screen.PNG" width=250>
+   <img src="screenshots/password_screen.PNG" width=250>
+   <img src="screenshots/register_screen.PNG" width=250>
+   <img src="screenshots/feedback_screen.PNG" width=250>
