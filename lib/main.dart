@@ -12,9 +12,6 @@ void main() => runApp(MyApp());
 class MyApp extends StatefulWidget {
   static FirebaseAuth auth = FirebaseAuth.instance;
   static FirebaseFirestore firestore = FirebaseFirestore.instance;
-
-  //static FirebaseStorage fireStorage = FirebaseStorage.instance;
-
   @override
   _MyAppState createState() => _MyAppState();
 }
